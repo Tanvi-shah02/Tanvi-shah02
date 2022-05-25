@@ -1,5 +1,8 @@
+## Hello, I'm [Tanvi Shah!] 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanvi-shah02&label=Views&color=blue&style=plastic" alt="iamtanvi" /> </p>
+
 # 💫About Me :
-- 👋 Hi, I’m @Tanvi-shah02
 - 👀 I’m keen to learn something amazing everyday.
 - 🌱 I’m currently learning to write efficient code & blogs.
 - 💞️ Tech Communities, Communication and Connect.
