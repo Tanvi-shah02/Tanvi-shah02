@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanvi-shah02
-- 👀 I’m interested in learning something amazing in life everyday.
+- 👀 I’m interested in learning something amazing everyday.
 - 🌱 I’m currently learning to write efficient code & blogs.
 - 💞️ Tech Communities, Communication and Connect.
 - 📫 Reach me at tanvishah1409@gmail.com
